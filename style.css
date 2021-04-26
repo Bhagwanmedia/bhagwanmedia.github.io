@@ -96,14 +96,14 @@ h2 {
 	padding-top: 200px;
 	padding-bottom: 200px;
 	text-transform: uppercase;
-	background-color: #2F0B3A;
+	background-color: #7f1734;
 	letter-spacing: 3px;
 	width: 100%;
 	color: white;
 }
 
 .box:hover{
-	background-color: #704580;
+	background-color: #bc4759;
 }
 
 .column {
